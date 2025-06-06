@@ -15,5 +15,6 @@ int main() {
 	} else {
 		cout <<"Su promedio es " << promedio << " esta " << "REPROBADO";
 	}
+	cout<<"ACTUALIZACION";
 	return 0;
 }
