@@ -13,5 +13,6 @@ int main () {
 	} else {
 		monto_total = monto_total *0.9;
 		cout << "Recibio un 10 % de decuento, ahora pagara " << monto_total << endl;
+		cout << "Recibio un 10 % de decuento, ahora pagara ";
 	}
 }
