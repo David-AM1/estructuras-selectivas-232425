@@ -10,6 +10,7 @@ int main() {
 		cout<<"Usted recibio un descuento del 20% ahora solo pagara "<<compra;
 	}else{
 		cout<<"Usted no recibio ningun descuento, su pago seguira siendo "<<compra;
+		cout<<"ACTU";
 	}
 	return 0;
 }
